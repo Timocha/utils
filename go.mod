@@ -1,3 +1,3 @@
-module github.com/Timocha/utils
+module github.com/Timocha/utils/v2
 
 go 1.15
